@@ -1,1 +1,0 @@
-[Kurbads.md](Kurbads)
